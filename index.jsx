@@ -1,0 +1,1 @@
+const file = "react is good library to create single page web application";
